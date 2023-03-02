@@ -1,0 +1,1 @@
+tensorboard --logdir="./writer_record" --port=8888
